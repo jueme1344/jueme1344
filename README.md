@@ -1,4 +1,7 @@
-### Hi bitches 👋
+### Hi guys 👋
+# développeur web en cours de formation
+pour toute proposition de stage n'hésitez pas à me contacter: *juemeriau67@gmail.com* ou *06.44.37.22.92*
+
 
 <!--
 **jueme1344/jueme1344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
